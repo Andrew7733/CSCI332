@@ -1,0 +1,46 @@
+[12-Apr-2018 01:21:38 CST6CDT] PHP Parse error:  syntax error, unexpected ''>Orders</a> ";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listUsers.php on line 18
+[12-Apr-2018 01:23:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'Orders' (T_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listUsers.php on line 11
+[12-Apr-2018 01:24:54 CST6CDT] PHP Parse error:  syntax error, unexpected ''>,Orders</a> ";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listUsers.php on line 18
+[12-Apr-2018 01:29:24 CST6CDT] PHP Parse error:  syntax error, unexpected ''>,Orders</a> ";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listUsers.php on line 18
+[12-Apr-2018 01:32:13 CST6CDT] PHP Parse error:  syntax error, unexpected ''>"Orders"</a> ";' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listUsers.php on line 18
+[30-Apr-2018 17:31:15 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/andrew23/public_html/php/delUsersServer.php on line 4
+[30-Apr-2018 17:31:31 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/andrew23/public_html/php/delUsersServer.php on line 14
+[30-Apr-2018 17:31:34 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/andrew23/public_html/php/delUsersServer.php on line 14
+[30-Apr-2018 17:32:17 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/andrew23/public_html/php/delUsersServer.php on line 4
+[30-Apr-2018 23:26:02 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:28:24 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:29:49 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:30:48 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:31:20 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:31:23 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:34:22 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:34:31 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[30-Apr-2018 23:34:34 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:11:10 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:11:47 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:11:48 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:11:49 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:12:11 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:12:11 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:12:12 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:12:12 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:12:12 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:02 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:04 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:04 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:04 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:05 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:05 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:14:10 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:02 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:02 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:07 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:24 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:15:26 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/andrew23/public_html/php/listCatalogs.php on line 4
+[01-May-2018 00:19:11 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 3
+[01-May-2018 00:19:18 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 3
+[01-May-2018 00:19:24 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/andrew23/public_html/php/listCatalogs.php on line 3
+[01-May-2018 00:35:49 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>Remove from Store</a>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/andrew23/public_html/php/listCatalogs.php on line 20

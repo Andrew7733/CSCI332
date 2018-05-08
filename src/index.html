@@ -1,0 +1,30 @@
+<style>
+    .center {
+      padding: 140px 0;
+      text-align: center;
+    }
+    .divider {
+      width:5px;
+    }
+</style>
+
+
+<div class="center">
+    <font size="+4"><b>Andrews Branding Business</b></font>
+    </br></br></br>
+    <input type="image" src="res/shop256.png" name="Catalog" id="storesBtn" onclick=""/>
+    &nbsp;&nbsp;
+    <input type="image" src="res/user256.png" name="Users" id="userBtn" onclick=""/>
+    &nbsp;&nbsp;
+    <input type="image" src="res/history256.png" name="Orders" id="ordersBtn" onclick=""/>
+</div>
+
+
+<script type="text/javascript">
+    document.getElementById("storesBtn").onclick = function () {
+        location.href = "/php/listStores.php"; };
+    document.getElementById("userBtn").onclick = function () {
+        location.href = "/php/listUsers.php"; };
+    document.getElementById("ordersBtn").onclick = function () {
+        location.href = "/php/listOrders.php"; };
+</script>
