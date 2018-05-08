@@ -1,4 +1,4 @@
-CSCI 332 Final Project
+## CSCI 332 Final Project
 
 By: Andrew Miller
 
