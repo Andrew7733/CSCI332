@@ -1,4 +1,0 @@
-RewriteEngine on
-
-RewriteRule ^index$ index.php
-AddType application/xhttpd-php .htm .html
